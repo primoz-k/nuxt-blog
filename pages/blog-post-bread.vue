@@ -8,7 +8,7 @@
         @click="toggle"
         class="absolute top-0 bg-green-500 hover:bg-green-700 text-white py-1 px-2 md:py-2 md:px-4 rounded mt-5 text-xs md:text-md l-toggle-button"
       >{{$colorMode.value == 'light' ? 'Lights off' : 'Lights on'}}</button>
-      <h1 class="b-title dark:text-gray-100 mt-5">Kalkulator setavin za kruh</h1>
+      <h1 class="b-title dark:text-gray-100 mt-5">Kalkulator sestavin za kruh</h1>
       <h2 class="b-subtitle dark:text-gray-300 mt-1">Kruh hočem rezat</h2>
       <div class="content max-w-3xl text-left mt-3 mb-5 dark:text-gray-100 px-4">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero reprehenderit inventore, a repellendus error deserunt quasi nesciunt repudiandae porro quidem sapiente doloribus magni veritatis, soluta rerum sequi eius beatae adipisci?</p>
