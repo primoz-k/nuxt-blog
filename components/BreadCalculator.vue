@@ -27,7 +27,7 @@ export default {
       return (Math.round(this.hidration/10 * this.weight) / 10).toFixed(1);
     },
     salt() {
-      return (Math.round(0.2 * this.weight) / 10).toFixed(1);
+      return (Math.round(0.21 * this.weight) / 10).toFixed(1);
     },
     yeast() {
       return (Math.round(0.04 * this.weight) / 10).toFixed(1);
