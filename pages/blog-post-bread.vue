@@ -12,10 +12,9 @@
       <h2 class="b-subtitle dark:text-gray-300 mt-1">Kruh hočem rezat</h2>
       <div class="content max-w-3xl text-left mt-3 mb-5 dark:text-gray-100 px-4">
         <p>
-          Če želiš vedno narediti enak kruh, brez kakšnih presenečenj, je najbolj pomembno, da upoštevaš enako razmerje sestavin, čas in temperaturo. Sobna temperatura
-          ni enaka v vseh kuhinjah, tako, da se lahko kompenzira s časom. Če je topleje, bo čas vzhajanja krajši in obratno. Najlažje je kontrolirati razmerje in količino sestavin,
+          Če želiš vedno narediti enak kruh, brez kakšnih presenečenj, je najbolj pomembno, da upoštevaš enako razmerje sestavin, čas in temperaturo. Čas vzhajanja je odvisen od sobne temperature, ki ni enaka v vseh kuhinjah. Če je topleje, bo čas vzhajanja krajši in obratno. Najlažje je kontrolirati razmerje in količino sestavin,
           zato sem pripravil enostaven kalkulator s katerim si lahko pomagaš pri pripravi sestavin. Kalkulator ima prednastavljeno 72% hidracijo. To pomeni, da na 1000g (1kg) moke uporabiš 72% moke v gramih. 
-          Torej 1000g moke in 720g vode. % pri kvasu in soli pomeni identično. Računaš procente glede na 1000g moke. 1000g moke pomeni da boš dobil/a 2 hlebčka. Jaz delam manjše hlebčke in ponavadi enega naenkrat, tako, da uporabim 400g moke. Vpiši 400g moke v kalkulator in izvedel/a boš preostalo maso sestavin.
+          Torej 1000g moke in 720g vode. Enako velja za % kvasa in soli, ki ju tudi računaš glede na 1000g moke. 1000g moke pomeni da boš dobil/a 2 hlebčka. Jaz delam manjše hlebčke in ponavadi enega naenkrat, tako, da uporabim 400g moke. Vpiši 400g moke v kalkulator in izvedel/a boš preostalo količino sestavin.
         </p>
       </div>
       <div class="flex justify-center">
@@ -27,7 +26,7 @@
       <h2 class="b-subtitle dark:text-gray-300 mt-1">Sobotni kruh</h2>
 
       <p class="max-w-3xl text-left mt-3 mb-5 dark:text-gray-100 px-4">
-        Ta recept je namenjen tistim, ki imate čas čez dan. Sam proces ni dolg, si je pa potrebno vsakič vzeti par minut za dober kruh. Domneva tudi, da uporabljaš belo moko. Če uporabljaš polbelo ali dodaš polnoyrnato, si v kalkulatorju povečaj procent hidracije na 75%.
+        Ta recept je namenjen tistim, ki imate čas čez dan. Sam proces ni dolg, si je pa potrebno vsakič vzeti par minut za dober kruh. V receptu uporabljam belo moko. Če uporabljaš polbelo ali dodaš polnozrnato, si v kalkulatorju povečaj procent hidracije na 75%.
       </p>
       <br>
 
@@ -36,33 +35,33 @@
         Začneš npr. ob 9:30 zjutraj:
         <br>
         <br>
-        1.) <strong>Avtoliza</strong> Najprej se naredi t.i. avtolizo. Sliši se bolj komplicirano, kot v resnici je. Pomeni samo to, da se v prozorni posodi zmeša vsa moka in voda (prozorna zato, da lažje spremljaš testo od strani).
-        Voda naj bo okoli 32°C-35°C, če je sobna temperatura med 21°C in 24°C. Moko in vodo zmešaš kar z rokami, toliko, da se moka popolnoma zmeša z vodo, pokriješ in pustiš počivati približno 30 minut.
+        1.) <strong>Avtoliza</strong> Najprej se naredi t.i. avtolizo. Sliši se bolj komplicirano, kot v resnici je. Pomeni samo to, da se v prozorni posodi zmeša vsa moka in voda (prozorna zato, da lažje spremljaš testo iz strani).
+        Voda naj ima okoli 32°C-35°C, če je sobna temperatura med 21°C. Če je v sobi topleje, uporabi malce hladnejšo vodo. Moko in vodo mešaš kar z rokami toliko časa, da se moka popolnoma poveže z vodo. Pokriješ in pustiš počivati približno 30 minut.
         <br>
         <br>
-        2.) <strong>Mesenje</strong> Po pol ure povrhu mase enakomerno potreseš sol in kvas in z vlažnimi rokami zmešaš vse sestavine. Če se ti testo začne preveč prijemati rok, lahko ponovno zmočiš roke. Najlaži proces mesenja je,
-        da greš z roko pod maso, jo primeš in povlečeš oz. raztegneš in nato prepogneš nazaj nad maso. Vse skupaj bi moralo trajati okoli 5 minut. Temperatura testa po koncu mesenja bi morala biti okoli 25°C-26°C. Nič hudega, če je kako
-        stopinjo preveč, čas vzhajanja bo malenkost krajši.
+        2.) <strong>Po pol ure</strong> Po vrhu testa enakomerno potreseš sol in kvas in z vlažnimi rokami zmešaš vse sestavine. Če se ti testo začne preveč prijemati rok, lahko ponovno zmočiš roke. Najlažji proces mesenja je,
+        da greš z roko pod testo, ga primeš in povlečeš oz. raztegneš in nato prepogneš nazaj nad testo. Vse skupaj bi moralo trajati okoli 5 minut. Temperatura testa po koncu mesenja bi morala biti okoli 25°C-26°C. Nič hudega, če je kako
+        stopinjo preveč, le čas vzhajanja bo malenkost krajši.
         <br>
         <br>
-        3.) <strong>Prepogibanje</strong> Testo potrebuje približno dve prepogibanji (prvo po 10ih minutah, drugo v naslednji uri). Proces je podoben, kot pri mesenju: Z vlažno roko greš pod testo (tako, da zajameš približno četrtino testa), ga primeš in povlečeš, dokler čutiš, da se ti ne pretrga, nato
-        pa ga prepogneš na nasprotno stran. To narediš še približno trikrat za cel krog. Nato pokriješ in pustiš še 4-5 ur počivati oz. dokler ne naraste za 3x.
+        3.) <strong>Prepogibanje</strong> Testo potrebuje približno dve prepogibanji (prvo po 10ih minutah, drugo v naslednji uri). Proces je podoben, kot pri mesenju: Z vlažno roko greš pod testo (tako, da zajameš približno četrtino testa), ga primeš in povlečeš, ravno toliko, da se ti ne pretrga, nato
+        pa ga prepogneš na nasprotno stran. To narediš še približno trikrat za cel krog. Nato pokriješ in pustiš počivati 4-5 ur oz. dokler ne naraste za 3x.
         <br>
         <br>
-        4.) <strong>Razdelitev</strong> V tem koraku je potrebno razdeliti testo na kroglice. Pomokaj površino, roke in rob posode s testom, da boš lažje prenesel/prenesla testo na pomokano površino.
-        Nagni posodo in nežno prenesi testo na pult. Pazi, da ga ne boš preveč vlekel/a in trgal/a. Ko imaš testo izven posode, po sredini testa pomokaj, kjer boš razdelil/a testo na 2 dela. To seveda narediš v primeru, če imaš preveč testa za en hlebček. V primeru, da delaš en hlebček, ti testa ni treba razdeliti.
+        4.) <strong>Razdelitev</strong> V tem koraku je potrebno razdeliti testo na kroglice. Pomokaj površino, roke in rob posode s testom, da boš lažje prenesel/prenesla testo iz posode na pomokan pult.
+        Nagni posodo in nežno prenesi testo na pult. Pazi, da ga ne boš preveč vlekel/a in trgal/a. Po sredini testa pomokaj tisti del, kjer boš z nožem razdelil/a testo na 2 dela. To seveda narediš v primeru, če imaš preveč testa za en hlebček. V primeru, da delaš en hlebček, ti testa ni treba razdeliti.
         <br>
         <br>
-        5.) <strong>Oblikovanje</strong> Pomokaj posodo v kateri boš vzhajal/a kruh do konca. Oblikuj vsako kroglico testa v bolj napeto kroglico - to najlažje storiš na nepomokani površini. Kroglico daš v posodo in jo še pomokaš po vrhu.
+        5.) <strong>Oblikovanje</strong> Pomokaj čisto posodo v kateri boš vzhajal/a kruh do konca. Oblikuj vsako kroglico testa v bolj napeto kroglico - to najlažje storiš na nepomokani površini. Kroglico daš v posodo in jo še pomokaš po vrhu.
         <br>
         <br>
-        6.) <strong>Zadnje vzhajanje</strong> Pokriješ posode s kuhinjsko krpo ali celotno posodo daš v neprodušno plastično vrečko in pustiš še 1h15min vzhajati. Če je sobna temperatura večja, kot 21°C, bo ta čas krajši (okoli ene ure).
+        6.) <strong>Zadnje vzhajanje</strong> Posodo lahko pokriješ s kuhinjsko krpo ali pa jo daš v neprodušno plastično vrečko in pustiš vzhajati 1h15min. Če je sobna temperatura večja kot 21°C, bo ta čas krajši (okoli ene ure).
         <br><br>
-        7.) <strong>Gretje pečice</strong> Vsaj 45 minut preden gre kruh v pečico, daš litoželezni lonec s pokrovom greti v pečico na 245°C. Če boš pekel/a na pladnju, ti tega koraka ni treba narediti, še vseeno pa je potrebno pečico segreti na vsaj 230°C.
+        7.) <strong>Gretje pečice</strong> Vsaj 45 minut preden peko kruha, vstaviš litoželezni lonec s pokrovom v pečico in segreješ na 245°C. Ko pečica doseže temperaturo, pustiš lonec še nekaj minut v pečici, da se dobro segreje. Če boš pekel/a na pladnju, ti tega koraka ni treba narediti, še vseeno pa je potrebno pečico segreti na vsaj 230°C.
         <br>
         <br>
-        8.) <strong>Peka kruha</strong> Prevrni kruh iz posode na glavo na pomokan pult ali peki papir. Hlebec daj v lonec, ki ga nato pokriješ, ali na pladenj in nato v pečico. Če uporabljaš pladenj, na dno pečice položi še manjši pladenj z vodo, da se bo v pečici ob peki delala para in vlažila kruh. Če uporabljaš lonec, tega ni potrebno narediti, 
-        ker že lonec poskrbi, da se bo kruh pekel v pari. Peči 30 minut, nato pa lonec odkrij in peči še 20 minut. Po koncu peke kruh prestavi na rešetko za hlajenje in pusti kako uro, da se kruh ohladi.
+        8.) <strong>Peka kruha</strong> Prevrni testo iz posode na glavo na pomokan pult ali peki papir. Testo skupaj s peki papirjem previdno prenesi v lonec (in ga pokrij) oz. na pladenj in nato v pečico. Če uporabljaš pladenj, na dno pečice položi še manjši pladenj z vodo, da se bo v pečici delala para in med peko vlažila kruh. Če uporabljaš lonec, tega ni potrebno narediti, 
+        saj za paro poskrbi sam. Peci 30 minut, nato odstrani pokrov in peci še 20 minut. Po koncu peke kruh prestavi na rešetko za hlajenje in pusti eno uro, da se kruh ohladi.
       </p>
     </div>
   </div>
