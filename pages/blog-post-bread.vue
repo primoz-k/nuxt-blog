@@ -36,7 +36,7 @@
           količino sestavin.
         </p>
       </div>
-      <div class="flex justify-center">
+      <div class="flex flex-col md:flex-row justify-center">
         <bread-calculator />
       </div>
 
@@ -67,7 +67,7 @@
         in pustiš počivati približno 30 minut.
       </p>
       <br />
-      <div class="flex justify-center">
+      <div class="flex flex-col md:flex-row items-center justify-center">
         <img
           src="~/assets/images/bread/test_0.jpg"
           class="max-w-xs text-center"
@@ -84,7 +84,7 @@
         25°C-26°C. Nič hudega, če je kako stopinjo preveč, le čas vzhajanja bo
         malenkost krajši.
       </p>
-      <div class="flex justify-around">
+      <div class="flex flex-col md:flex-row items-center justify-around">
         <img
           src="~/assets/images/bread/test_2.jpg"
           class="max-w-xs text-center"
@@ -155,11 +155,15 @@
         odstrani pokrov in peci še 20 minut. Po koncu peke kruh prestavi na
         rešetko za hlajenje in pusti eno uro, da se kruh ohladi.
       </p>
-      <div class="flex justify-center">
+      <div class="flex flex-col md:flex-row items-center justify-center">
         <img
           src="~/assets/images/bread/bread_finish.jpg"
           class="max-w-xs text-center"
         />
+      </div>
+      <h3 class="text-xl b-title dark:text-gray-100 mt-5">Video</h3>
+      <div class="video-container mt-5 flex justify-center items-center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/9Sn9pxwgT0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -186,11 +190,11 @@ export default {
 <style>
 /* Sample `apply` at-rules with Tailwind CSS
 .container {
-  @apply min-h-screen flex justify-center items-center text-center mx-auto;
+  @apply min-h-screen flex flex-col md:flex-row justify-center items-center text-center mx-auto;
 }
 */
 .container {
-  /* @apply min-h-screen flex justify-center text-center mx-auto; */
+  /* @apply min-h-screen flex flex-col md:flex-row justify-center text-center mx-auto; */
 }
 
 .b-title {
